@@ -1,0 +1,10 @@
+C:\Users\George\source\repos\III_upr4\III_upr4\obj\Debug\III_upr4.csprojAssemblyReference.cache
+C:\Users\George\source\repos\III_upr4\III_upr4\obj\Debug\III_upr4.Form1.resources
+C:\Users\George\source\repos\III_upr4\III_upr4\obj\Debug\III_upr4.Properties.Resources.resources
+C:\Users\George\source\repos\III_upr4\III_upr4\obj\Debug\III_upr4.csproj.GenerateResource.cache
+C:\Users\George\source\repos\III_upr4\III_upr4\obj\Debug\III_upr4.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\III_upr4\III_upr4\bin\Debug\III_upr4.exe.config
+C:\Users\George\source\repos\III_upr4\III_upr4\bin\Debug\III_upr4.exe
+C:\Users\George\source\repos\III_upr4\III_upr4\bin\Debug\III_upr4.pdb
+C:\Users\George\source\repos\III_upr4\III_upr4\obj\Debug\III_upr4.exe
+C:\Users\George\source\repos\III_upr4\III_upr4\obj\Debug\III_upr4.pdb
